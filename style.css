@@ -1,11 +1,11 @@
-body {
-  background-color: lightblue;
-}
 h1 {
   color: yellow;
 }
-div {
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F621356079818845079%2F&psig=AOvVaw2ltSCbe9rB65OzEGSI9Mo2&ust=1643199990146000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND19pDzzPUCFQAAAAAdAAAAABAD");
-  background-repeat: no-repeat;
+body {
+  background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
   background-position: center;
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 1300px/* Van links naar rechts*/ 600px /*van boven naar beneden */;
 }
