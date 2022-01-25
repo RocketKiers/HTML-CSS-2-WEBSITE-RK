@@ -4,3 +4,7 @@ body {
 h1 {
   color: yellow;
 }
+body {
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F621356079818845079%2F&psig=AOvVaw2ltSCbe9rB65OzEGSI9Mo2&ust=1643199990146000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND19pDzzPUCFQAAAAAdAAAAABAD")
+  background-color: #cccccc;
+}
