@@ -11,8 +11,46 @@ body {
   background-size: 1300px/* Van links naar rechts*/ 600px /*van boven naar beneden */;
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
 }
-header {
-  background: url('HTML-CSS-2-WEBSITE/images/The_future_of_robots.png');
-  width: 900px;
-  height: 200px;
+ul {
+  padding: 10px;
+}
+
+ul li {
+  background: #787878;
+  padding: 5px;
+  border: solid 2px white;
+  display: inline-block;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #C0C0C0;
+}
+section {
+  padding: 5px;
+  margin: 5px;
+  /*border: double 4px yellow;*/
+}
+
+article {
+  /*border: 3px solid yellow;*/
+  border-radius: 0px 20px 20px 20px;
+  margin: 5px 10px 5px 10px;
+  padding: 10px;
+}
+article h2 {
+
+}
+
+article p {
+
+}
+footer h3 {
+  text-align: center;
+  font-weight: normal;
+  font-size: 120%;
 }
