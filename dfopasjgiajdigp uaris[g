@@ -1,0 +1,59 @@
+[33mcommit 998e6994514a802d18eca9112390da499bb3a12c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Rocket Kiers <rocket.kiers@gmail.com>
+Date:   Sun Jan 30 22:15:09 2022 +0100
+
+    added footer
+
+[33mcommit f82bdf9607f5d6dabe8690c22de6776019a0b633[m
+Author: Rocket Kiers <rocket.kiers@gmail.com>
+Date:   Sun Jan 30 22:01:37 2022 +0100
+
+    background image working
+
+[33mcommit 26b979af3cc8460b663074adf448cfd092466e38[m
+Author: Rocket Kiers <rocket.kiers@gmail.com>
+Date:   Sun Jan 30 21:38:33 2022 +0100
+
+    margin changes
+
+[33mcommit 34646fb9936a2dbc9da6b10931e29dad58c2a0cc[m
+Author: Rocket Kiers <rocket.kiers@gmail.com>
+Date:   Sun Jan 30 21:37:26 2022 +0100
+
+    ROBOT REVOLUTIE
+
+[33mcommit 483b101adb0453f268cb412b90beead3e2e7644f[m
+Author: Rocket Kiers <rocket.kiers@gmail.com>
+Date:   Sun Jan 30 21:35:41 2022 +0100
+
+    header toegevoegd en articles'
+
+[33mcommit 1fab9e4740c0175650e376f1743c77f38a4a0aab[m
+Author: Rocket Kiers <rocket.kiers@gmail.com>
+Date:   Tue Jan 25 13:58:36 2022 +0100
+
+    achtergrond gemaakt
+
+[33mcommit 60a6758d344336ad607352ffd47143b3e0b80d5e[m
+Author: Rocket Kiers <rocket.kiers@gmail.com>
+Date:   Tue Jan 25 13:41:10 2022 +0100
+
+    Got css to work
+
+[33mcommit d61074811210d9b5b1659913d0d4f01ef38082bd[m
+Author: Rocket Kiers <rocket.kiers@gmail.com>
+Date:   Tue Jan 25 13:28:36 2022 +0100
+
+    added photo in css
+
+[33mcommit 1c15c0119d981520e9d51e5de7e48bd56f583b9b[m
+Author: Rocket Kiers <rocket.kiers@gmail.com>
+Date:   Tue Jan 25 13:14:01 2022 +0100
+
+    H1 kleur gegeven, en h1 text toegevoegd
+
+[33mcommit 529c7e8f3930abde891e7a8726e2f04903874550[m
+Author: Rocket Kiers <rocket.kiers@gmail.com>
+Date:   Mon Jan 24 12:00:35 2022 +0100
+
+    Eerste commit naar index en style, er staat nog niks in erin
