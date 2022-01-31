@@ -3,6 +3,9 @@
   padding: 0px;
   color: yellow;
 }
+h1{
+  float: center;
+}
 body {
   background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
   background-position: center;
@@ -14,20 +17,20 @@ body {
 ul {
   padding: 10px;
 }
-
-ul li {
+li {
   background: #787878;
   padding: 5px;
   border: solid 2px white;
-  display: inline-block;
+  display: inline-grid;
 }
 
-ul li a {
+a {
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 ul li a:hover {
+  float:center;
   color: #C0C0C0;
 }
 section {
@@ -47,7 +50,6 @@ article h2 {
 }
 
 article p {
-
 }
 footer h3 {
   text-align: center;
@@ -56,5 +58,5 @@ footer h3 {
 }
 .wrapper {
   margin: 0 auto 0 auto;
-  width: 960px;
+  width: 900px;
 }
