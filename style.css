@@ -3,7 +3,10 @@
   padding: 0px;
   color: yellow;
 }
-h1{
+nav{
+  width: 200px;
+}
+.h1hehe{
   float: center;
 }
 body {
@@ -16,12 +19,12 @@ body {
 }
 ul {
   padding: 10px;
+  list-style-type: none;
 }
 li {
   background: #787878;
   padding: 5px;
   border: solid 2px white;
-  display: inline-grid;
 }
 
 a {
@@ -59,4 +62,7 @@ footer h3 {
 .wrapper {
   margin: 0 auto 0 auto;
   width: 900px;
+}
+#wrap_onderkant{
+    display:flex;
 }
