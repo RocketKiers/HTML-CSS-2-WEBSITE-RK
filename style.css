@@ -4,8 +4,13 @@
   color: yellow;
 }
 nav{
-  width: 200px;
-  float: left;
+  width: 150px;
+  position: absolute;
+  top: 300px;
+  left: 25px
+}
+.header{
+  border:10px solid yellow;
 }
 body {
   background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
@@ -37,6 +42,7 @@ section {
   padding: 5px;
   margin: 5px;
   float:center;
+  width: 802px;
   /*border: double 4px yellow;*/
 }
 
@@ -62,6 +68,7 @@ footer h3 {
    width: 200px;
    height: auto;
    position: absolute;
-   top: 300px;
-   left: 1050px;
+   top: 265px;
+   left: 1025px;
+   border: 10px solid yellow;
 }
