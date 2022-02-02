@@ -5,9 +5,7 @@
 }
 nav{
   width: 200px;
-}
-.h1hehe{
-  float: center;
+  float: left;
 }
 body {
   background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
@@ -33,12 +31,13 @@ a {
 }
 
 ul li a:hover {
-  float:center;
+  float:left;
   color: #C0C0C0;
 }
 section {
   padding: 5px;
   margin: 5px;
+  float:center;
   /*border: double 4px yellow;*/
 }
 
