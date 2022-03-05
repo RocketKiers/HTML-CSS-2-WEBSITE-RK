@@ -73,3 +73,21 @@ footer h3 {
    left: 1025px;
    border: 10px solid yellow;
 }
+a:link {
+  color: rgb(255, 255, 100);
+  font-size: 16px;
+}
+
+a:visited {
+  color: #FFEC39;
+  font-size: 20px;
+}
+
+a:hover {
+  font-weight: bold;
+  color: lightblue;
+}
+
+a:active {
+  font-weight:bolder;
+}
