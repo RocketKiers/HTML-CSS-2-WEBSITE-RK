@@ -30,6 +30,7 @@ li {
   background: #2cb2e0;
   padding: 5px;
   border: solid 2px white;
+  display:inline;
 }
 
 a {
