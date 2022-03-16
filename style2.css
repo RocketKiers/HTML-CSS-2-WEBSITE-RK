@@ -3,13 +3,38 @@ h1{
 }
 .protext{
   position: absolute;
-  left: 10px;
+  left: 20px;
   top:300px;
 }
 .protext2{
   position: absolute;
-  left: 10px;
+  left: 20px;
+  top:320px;
+}
+.protext3{
+  position: absolute;
+  left: 20px;
+  top:340px;
+}
+.protext4{
+  position: absolute;
+  left: 20px;
   top:400px;
+}
+.protext5{
+  position: absolute;
+  left: 20px;
+  top:420px;
+}
+.protext6{
+  position: absolute;
+  left: 20px;
+  top:440px;
+}
+.protext7{
+  position: absolute;
+  left: 20px;
+  top:460px;
 }
 * {
   margin: 0px;
