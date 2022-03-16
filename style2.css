@@ -1,8 +1,15 @@
 h1{
 
 }
-.shoutout{
-  
+.protext{
+  position: absolute;
+  left: 10px;
+  top:300px;
+}
+.protext2{
+  position: absolute;
+  left: 10px;
+  top:400px;
 }
 * {
   margin: 0px;
